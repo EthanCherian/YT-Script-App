@@ -1,4 +1,4 @@
-# YT-Script-App
+# YT-ScriptSearch
 
 Our project for TAMUhack 2023!
 
